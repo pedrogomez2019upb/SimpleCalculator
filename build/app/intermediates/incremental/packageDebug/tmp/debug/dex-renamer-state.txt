@@ -1,0 +1,4 @@
+#Mon Feb 06 10:47:26 COT 2023
+base.0=/Users/pipe22007/Downloads/Archive 2/CalculadoraRowColumn/calculadora/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
